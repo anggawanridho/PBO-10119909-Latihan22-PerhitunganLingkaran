@@ -31,8 +31,8 @@ public class PBO10119909Latihan22 {
         keliling = PHI * diameter;
         System.out.println();
         System.out.println("======Hasil Perhitungan Lingkaran======");
-        System.out.printf("Jari-jari Lingkaran\t\t= %.2f%n", jarijari);
-        System.out.printf("Luas Lingkaran\t\t\t= %.2f%n", luas);
-        System.out.printf("Keliling lingkaran\t\t= %.2f%n", keliling);
+        System.out.printf("Jari-jari Lingkaran\t\t= %.2f cm%n", jarijari);
+        System.out.printf("Luas Lingkaran\t\t\t= %.2f cm%n", luas);
+        System.out.printf("Keliling lingkaran\t\t= %.2f cm%n", keliling);
     }
 }
